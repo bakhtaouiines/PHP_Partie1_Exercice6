@@ -11,6 +11,6 @@
 </head>
 <body>
     <h1>Exercice 6 Partie 1 : Les variables PHP</h1>
-    <p><?= 'Bonjour ' .$name. ', comment vas-tu?';?></p>
+    <p>Bonjour <?=$name?>, comment vas-tu?</p>
 </body>
 </html>
